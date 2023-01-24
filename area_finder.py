@@ -21,7 +21,7 @@ def load_png():
 
 def calculate_population():
     """    
-    Waaaaa
+    calculates the area of each colour on an equirectangular map of pixel dimensions 8640 by 4320
 
     """
     colours = []
